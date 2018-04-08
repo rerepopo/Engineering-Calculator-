@@ -1,0 +1,3 @@
+title=A_calc_YW
+author=YW Lee
+orientation=portrait
